@@ -1,9 +1,9 @@
 //
-//  ViewController.swift
+//  AppDelegate.swift
 //  RetroCalculator
 //
-//  Created by Mark Price on 7/15/16.
-//  Copyright © 2016 Devslopes. All rights reserved.
+//  Created by Mehmet Anıl Kul on 21.07.2017.
+//  Copyright © 2017 Mehmet Anıl Kul. All rights reserved.
 //
 
 import UIKit
